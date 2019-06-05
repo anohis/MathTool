@@ -11,7 +11,8 @@ namespace MathToolTest
 	{
 		static void Main(string[] args)
 		{
-			LineTest.LineIsCrossTest();
+			//LineTest.LineIsCrossTest();
+			SetTest.SubSetTest();
 			Console.ReadLine();
 		}
 	}

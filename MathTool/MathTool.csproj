@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Collection\Set.cs" />
+    <Compile Include="Collection\SetTool.cs" />
     <Compile Include="Line\Line.cs" />
     <Compile Include="Line\LineTool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
